@@ -1,2 +1,2 @@
 # Simple CueServer with Color Picker via UDP for Q-SYS
-My space for sharing Q-SYS Code for Communities
+This is a script for controlling a CueServer via UDP with the color picker in Q-SYS.
